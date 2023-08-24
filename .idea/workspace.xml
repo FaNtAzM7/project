@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b3f6147-3154-47f7-8e0e-446b49ddf47f" name="Changes" comment="дз за 9 Занятие">
+      <change afterPath="$PROJECT_DIR$/less10/app_adv/forms.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RFwBKFJB5Bvu2QuAVA62eyqPAm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Project&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Project\less5\static" />
+      <recent name="C:\Project\less4\app1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b3f6147-3154-47f7-8e0e-446b49ddf47f" name="Changes" comment="" />
+      <created>1686859002135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686859002135</updated>
+    </task>
+    <task id="LOCAL-00001" summary="дз за 3 Занятие">
+      <created>1688979932349</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688979932349</updated>
+    </task>
+    <task id="LOCAL-00002" summary="дз за 4 Занятие">
+      <created>1691581805708</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691581805708</updated>
+    </task>
+    <task id="LOCAL-00003" summary="дз за 5 Занятие">
+      <created>1691591504908</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691591504908</updated>
+    </task>
+    <task id="LOCAL-00004" summary="дз за 5 Занятие">
+      <created>1691591659042</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691591659042</updated>
+    </task>
+    <task id="LOCAL-00005" summary="дз за 5 Занятие">
+      <created>1691591734318</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691591734318</updated>
+    </task>
+    <task id="LOCAL-00006" summary="дз за 5 Занятие">
+      <created>1691591754219</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691591754219</updated>
+    </task>
+    <task id="LOCAL-00007" summary="дз за 7 Занятие">
+      <created>1691701141509</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691701141509</updated>
+    </task>
+    <task id="LOCAL-00008" summary="дз за 7 Занятие">
+      <created>1691701216730</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691701216730</updated>
+    </task>
+    <task id="LOCAL-00009" summary="дз за 7 Занятие">
+      <created>1691701273635</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691701273635</updated>
+    </task>
+    <task id="LOCAL-00010" summary="дз за 7 Занятие">
+      <created>1691701330508</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1691701330508</updated>
+    </task>
+    <task id="LOCAL-00011" summary="дз за 7 Занятие">
+      <created>1691701339575</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1691701339575</updated>
+    </task>
+    <task id="LOCAL-00012" summary="дз за 7 Занятие">
+      <created>1691701473846</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691701473846</updated>
+    </task>
+    <task id="LOCAL-00013" summary="дз за 7 Занятие">
+      <created>1691701610721</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1691701610723</updated>
+    </task>
+    <task id="LOCAL-00014" summary="дз за 7 Занятие">
+      <created>1691701895200</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1691701895200</updated>
+    </task>
+    <task id="LOCAL-00015" summary="дз за 7 Занятие">
+      <created>1691702077786</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1691702077786</updated>
+    </task>
+    <task id="LOCAL-00016" summary="дз за 8 Занятие">
+      <created>1691755128356</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1691755128356</updated>
+    </task>
+    <task id="LOCAL-00017" summary="дз за 9 Занятие">
+      <created>1691871351257</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1691871351257</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="дз за 3 Занятие" />
+    <MESSAGE value="дз за 4 Занятие" />
+    <MESSAGE value="дз за 5 Занятие" />
+    <MESSAGE value="дз за 7 Занятие" />
+    <MESSAGE value="дз за 8 Занятие" />
+    <MESSAGE value="дз за 9 Занятие" />
+    <option name="LAST_COMMIT_MESSAGE" value="дз за 9 Занятие" />
+  </component>
+</project>
